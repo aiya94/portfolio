@@ -7,7 +7,7 @@ function CreateHeader() {
       <header className="App-header">
         <p>My new portfolio</p>
       </header>
-      <Button color="primary">Hello World</Button>;
+      <Button color="primary">Test</Button>;
     </div>
   );
 }
