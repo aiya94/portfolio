@@ -7,3 +7,6 @@ My CV Portfolio bio should:
 - Tell the reader a little bit about yourself
 - State your areas of expertise
 - Focus on bringing clients value
+
+
+work on progress
